@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/slideBackground"
+    android:orientation="vertical" 
+    >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#1874CD">
+
+        <ImageView
+            android:id="@+id/id_messages1"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/messages" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:layout_toRightOf="@id/id_messages1"
+            android:text="@string/messages"
+            android:textColor="#393854"
+            android:textSize="25sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" 
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="center"
+            android:text="@string/textview"
+            android:textColor="#393854"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/et_messages"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="50dp"
+            android:layout_marginTop="30dp"
+            android:gravity="start"
+            android:hint="请输入您所需要的求救信息，本应用会自动在信息末端添加地理位置。" >
+            
+        </EditText>
+
+        <LinearLayout
+	    android:weightSum="2"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content" 
+	    android:orientation="horizontal"
+	    android:layout_alignParentBottom="true">
+
+    	<Button
+    	    android:id="@+id/button2"
+    	    android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content"
+    	    android:layout_alignParentBottom="true"
+    	    android:layout_alignParentLeft="true"
+    	    android:layout_weight="1"
+    	    android:text="取消" />
+
+    	<Button
+        	android:id="@+id/bt_save"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:layout_alignParentBottom="true"
+        	android:layout_alignParentRight="true"
+        	android:layout_weight="1"
+        	android:text="确定" />
+	
+    	</LinearLayout>
+    </RelativeLayout>
+	
+	
+
+</LinearLayout>

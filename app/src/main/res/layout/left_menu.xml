@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerInParent="true"
+    android:background="@color/slideBackground">
+	
+    <RelativeLayout
+    	android:layout_width="fill_parent"
+        android:layout_height="wrap_content" 
+        android:background="#1874CD">
+		
+        <ImageView
+            android:id="@+id/id_setting"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/setting"/>
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/id_setting"
+            android:text="@string/setting"
+            android:layout_centerVertical="true"
+            android:textSize="25sp"
+            android:textColor="#393854"
+            android:layout_marginLeft="20dp"
+            />
+        
+    </RelativeLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:layout_marginTop="100dp"
+        android:orientation="vertical">
+        
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+			
+            <ImageView
+                android:id="@+id/id_contacts"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp" 
+                android:src="@drawable/contacts"/>
+            <TextView 
+                android:id="@+id/contacts"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/id_contacts"
+                android:text="@string/contacts"
+                android:layout_centerVertical="true"
+                android:textSize="20sp"
+                android:textColor="#393854"
+                android:layout_marginLeft="20dp"
+                />
+
+            <Button
+                android:id="@+id/bt_contacts"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_alignBottom="@+id/id_contacts"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:background="#00000000" />
+           
+        </RelativeLayout>
+        
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/id_messages"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp" 
+                android:src="@drawable/messages"/>
+            <TextView 
+                android:id="@+id/messages"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/id_messages"
+                android:text="@string/messages"
+                android:layout_centerVertical="true"
+                android:textSize="20sp"
+                android:textColor="#393854"
+                android:layout_marginLeft="20dp"
+                />
+            <Button
+                android:id="@+id/bt_messages"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_alignBottom="@+id/id_messages"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:background="#00000000" />
+        </RelativeLayout>
+        
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/id_about"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp" 
+                android:src="@drawable/about"/>
+            <TextView 
+                android:id="@+id/about"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/id_about"
+                android:text="@string/about"
+                android:layout_centerVertical="true"
+                android:textSize="20sp"
+                android:textColor="#393854"
+                android:layout_marginLeft="20dp"
+                />
+            <Button
+                android:id="@+id/bt_about"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_alignBottom="@+id/id_about"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:background="#00000000" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</RelativeLayout>

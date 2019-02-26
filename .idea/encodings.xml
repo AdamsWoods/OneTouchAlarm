@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/Demo/onekey2alarm/FileHelper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/Demo/onekey2alarm/MainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/Demo/onekey2alarm/about.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/Demo/onekey2alarm/contacts.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/Demo/onekey2alarm/messages.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/Demo/onekey2alarm/view/SlidingMenu.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "F:\\AllAboutMyCode\\androidProject\\OneKey2Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable_about.png.flat",
+        "source": "F:\\AllAboutMyCode\\androidProject\\OneKey2Alarm\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "F:\\AllAboutMyCode\\androidProject\\OneKey2Alarm\\app\\build\\intermediates\\res\\merged\\debug\\layout_left_menu.xml.flat",
+        "source": "F:\\AllAboutMyCode\\androidProject\\OneKey2Alarm\\app\\src\\main\\res\\layout\\left_menu.xml"
+    },
+    {
+        "merged": "F:\\AllAboutMyCode\\androidProject\\OneKey2Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable_messages.png.flat",
+        "source": "F:\\AllAboutMyCode\\androidProject\\OneKey2Alarm\\app\\src\\main\\res\\drawable\\messages.png"
+    },
+    {
+        "merged": "F:\\AllAboutMyCode\\androidProject\\OneKey2Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "F:\\AllAboutMyCode\\androidProject\\OneKey2Alarm\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AllAboutMyCode\\androidProject\\OneKey2Alarm\\app\\build\\intermediates\\res\\merged\\debug\\layout_about.xml.flat",
+        "source": "F:\\AllAboutMyCode\\androidProject\\OneKey2Alarm\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "F:\\AllAboutMyCode\\androidProject\\OneKey2Alarm\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "F:\\AllAboutMyCode\\androidProject\\OneKey2Alarm\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\AllAboutMyCode\\androidProject\\OneKey2Alarm\\app\\build\\intermediates\\res\\merged\\debug\\layout_contacts.xml.flat",
+        "source": "F:\\AllAboutMyCode\\androidProject\\OneKey2Alarm\\app\\src\\main\\res\\layout\\contacts.xml"
+    },
+    {
+        "merged": "F:\\AllAboutMyCode\\androidProject\\OneKey2Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "F:\\AllAboutMyCode\\androidProject\\OneKey2Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AllAboutMyCode\\androidProject\\OneKey2Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\AllAboutMyCode\\androidProject\\OneKey2Alarm\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AllAboutMyCode\\androidProject\\OneKey2Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable_transdrawable.png.flat",
+        "source": "F:\\AllAboutMyCode\\androidProject\\OneKey2Alarm\\app\\src\\main\\res\\drawable\\transdrawable.png"
+    },
+    {
+        "merged": "F:\\AllAboutMyCode\\androidProject\\OneKey2Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable_contacts.png.flat",
+        "source": "F:\\AllAboutMyCode\\androidProject\\OneKey2Alarm\\app\\src\\main\\res\\drawable\\contacts.png"
+    },
+    {
+        "merged": "F:\\AllAboutMyCode\\androidProject\\OneKey2Alarm\\app\\build\\intermediates\\res\\merged\\debug\\layout_messages.xml.flat",
+        "source": "F:\\AllAboutMyCode\\androidProject\\OneKey2Alarm\\app\\src\\main\\res\\layout\\messages.xml"
+    },
+    {
+        "merged": "F:\\AllAboutMyCode\\androidProject\\OneKey2Alarm\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\AllAboutMyCode\\androidProject\\OneKey2Alarm\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\AllAboutMyCode\\androidProject\\OneKey2Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable_setting.png.flat",
+        "source": "F:\\AllAboutMyCode\\androidProject\\OneKey2Alarm\\app\\src\\main\\res\\drawable\\setting.png"
+    },
+    {
+        "merged": "F:\\AllAboutMyCode\\androidProject\\OneKey2Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\AllAboutMyCode\\androidProject\\OneKey2Alarm\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]
